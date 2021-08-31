@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App{
+  min-height: 100vh
+};
+
+html,
+body {
+ height: 100%;
+ width: 100%;
+}

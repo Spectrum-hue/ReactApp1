@@ -1,0 +1,62 @@
+// <div key={idx} className="stocksDiv">
+        //   <Card
+        //     className='stocksCard'
+        //     border='primary'
+        //     style={{ width: '18rem' }}
+        //   >
+        //     <Card.Header>APPLE INC: {finance.AAPL.meta.symbol}</Card.Header>
+        //     <Card.Body>
+        //       <Card.Title>{finance.AAPL.meta.exchange}</Card.Title>
+        //       <Card.Text>Datetime: {finance.AAPL.values[0].datetime}</Card.Text>
+        //       <Card.Text>Open: {finance.AAPL.values[0].open}</Card.Text>
+        //       <Card.Text>High: {finance.AAPL.values[0].high}</Card.Text>
+        //       <Card.Text>Low: {finance.AAPL.values[0].low}</Card.Text>
+        //       <Card.Text>Close: {finance.AAPL.values[0].close}</Card.Text>
+        //     </Card.Body>
+        //   </Card>
+        //   <Card
+        //     className='stocksCard'
+        //     border='primary'
+        //     style={{ width: '18rem' }}
+        //   >
+        //     <Card.Header>AMAZON: {finance.AMZN.meta.symbol}</Card.Header>
+        //     <Card.Body>
+        //       <Card.Title>{finance.AMZN.meta.exchange}</Card.Title>
+        //       <Card.Text>Datetime: {finance.AMZN.values[0].datetime}</Card.Text>
+        //       <Card.Text>Open: {finance.AMZN.values[0].open}</Card.Text>
+        //       <Card.Text>High: {finance.AMZN.values[0].high}</Card.Text>
+        //       <Card.Text>Low: {finance.AMZN.values[0].low}</Card.Text>
+        //       <Card.Text>Close: {finance.AMZN.values[0].close}</Card.Text>
+        //     </Card.Body>
+        //   </Card>
+        //   <Card
+        //     className='stocksCard'
+        //     border='primary'
+        //     style={{ width: '18rem' }}
+        //   >
+        //     <Card.Header>GOOGLE: {finance.GOOG.meta.symbol}</Card.Header>
+        //     <Card.Body>
+        //       <Card.Title>{finance.GOOG.meta.exchange}</Card.Title>
+        //       <Card.Text>Datetime: {finance.GOOG.values[0].datetime}</Card.Text>
+        //       <Card.Text>Open: {finance.GOOG.values[0].open}</Card.Text>
+        //       <Card.Text>High: {finance.GOOG.values[0].high}</Card.Text>
+        //       <Card.Text>Low: {finance.GOOG.values[0].low}</Card.Text>
+        //       <Card.Text>Close: {finance.GOOG.values[0].close}</Card.Text>
+        //     </Card.Body>
+        //   </Card>
+        //   <Card
+        //     className='stocksCard'
+        //     border='primary'
+        //     style={{ width: '18rem' }}
+        //   >
+        //     <Card.Header>COKE: {finance.KO.meta.symbol}</Card.Header>
+        //     <Card.Body>
+        //       <Card.Title>{finance.KO.meta.exchange}</Card.Title>
+        //       <Card.Text>Datetime: {finance.KO.values[0].datetime}</Card.Text>
+        //       <Card.Text>Open: {finance.KO.values[0].open}</Card.Text>
+        //       <Card.Text>High: {finance.KO.values[0].high}</Card.Text>
+        //       <Card.Text>Low: {finance.KO.values[0].low}</Card.Text>
+        //       <Card.Text>Close: {finance.KO.values[0].close}</Card.Text>
+        //     </Card.Body>
+        //   </Card>
+        // </div>

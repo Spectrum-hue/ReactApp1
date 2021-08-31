@@ -1,0 +1,49 @@
+.Home {
+  background-size: cover;
+  text-align: center;
+  display: block;
+  background-image: url(https://perfectionhangover.com/wp-content/uploads/rockstar-finance-sold-1024x683.jpg);
+  height: 100vh;
+  min-height: 100vh;
+  padding-bottom: 60px;
+}
+
+.FinanceDiv {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.Finance{
+  padding: 40px;
+}
+
+.mainStockDiv {
+  background-color: gray;
+  color: whitesmoke;
+  text-align: center;
+  background-repeat: repeat;
+  height: 400vh;
+}
+
+/* Login page styling */
+.loginPage {
+  display: block;
+  text-align: center;
+  color: white;
+  background-image: url(https://www.iif.com/Portals/0/OpenContent/Files/1026/About-the-IIF-Update.png);
+  background-size: cover;
+  height: 100vh;
+  min-height: 100vh;
+  padding-bottom: 60px;
+}
+
+.LoginDiv {
+  display: inline-block;
+}
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
