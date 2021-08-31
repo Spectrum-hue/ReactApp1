@@ -7,6 +7,7 @@
 #NOTES
 
 # See package.json file for a snippet code regarding Spring Boot backend
+# https://twelvedata.com/ ---> The external API (with API key)for financial indicators ---> see Stocks.js file.
 # "proxy": "http://localhost:8080"
 # This is the port which the Spring Boot application run on and this line of code help the bacend and frontend to run together.
 # The react app run on port 3000
